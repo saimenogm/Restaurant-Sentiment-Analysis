@@ -41,3 +41,7 @@ Bon Appétit & Happy Coding!
 
 
 #SentimentClassification #SentimentAnalysis #Restaurant
+
+## Developers
+- **Simon Manna (AI & ML Engineer)**
+- **Merhawi Tsegay (AI & ML Engineer)**
